@@ -1,0 +1,29 @@
+interrupt/kernel-timer.o: interrupt/timer.c \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/console/terminal.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint-gcc.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/task.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/stdlib/queue.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/memory/mmu.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/interrupt/apic.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/memory/layout.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/interrupt/timer.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/interrupt/interrupt.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/stdlib/syscall.h
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/console/terminal.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdint-gcc.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/task.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/stdlib/queue.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/memory/mmu.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/interrupt/apic.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/memory/layout.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/interrupt/timer.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/interrupt/interrupt.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/stdlib/syscall.h:

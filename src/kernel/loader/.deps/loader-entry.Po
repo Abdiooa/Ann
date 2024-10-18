@@ -1,0 +1,5 @@
+loader-entry.o: entry.S \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/memory/layout.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/memory/mmu.h
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/memory/layout.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/memory/mmu.h:

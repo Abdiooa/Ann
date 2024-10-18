@@ -1,0 +1,11 @@
+disk/libkernel64_a-ata.o: disk/ata.c \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/asm.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint-gcc.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/disk/ata.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/asm.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdint-gcc.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/disk/ata.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h:

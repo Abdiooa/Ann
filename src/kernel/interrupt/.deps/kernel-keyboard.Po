@@ -1,0 +1,31 @@
+interrupt/kernel-keyboard.o: interrupt/keyboard.c \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/stdlib/assert.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/console/terminal.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint-gcc.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/asm.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/task.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/stdlib/queue.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/memory/mmu.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/monitor.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/interrupt/apic.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/memory/layout.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/interrupt/keyboard.h
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/stdlib/assert.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/console/terminal.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdint-gcc.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/asm.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/task.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/stdlib/queue.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/memory/mmu.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/monitor.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/interrupt/apic.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/memory/layout.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/interrupt/keyboard.h:

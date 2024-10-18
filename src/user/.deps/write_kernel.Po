@@ -1,0 +1,7 @@
+write_kernel.o: write_kernel.c \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/user/syscall.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint-gcc.h
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/user/syscall.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdint-gcc.h:

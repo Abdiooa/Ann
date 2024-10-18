@@ -1,0 +1,15 @@
+interrupt/kernel-interrupt_entry.o: interrupt/interrupt_entry.S \
+ /usr/include/stdc-predef.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/memory/layout.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/memory/mmu.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/misc/gdt.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/interrupt/apic.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/interrupt/interrupt.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/stdlib/syscall.h
+/usr/include/stdc-predef.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/memory/layout.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/memory/mmu.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/misc/gdt.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/interrupt/apic.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/interrupt/interrupt.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/stdlib/syscall.h:

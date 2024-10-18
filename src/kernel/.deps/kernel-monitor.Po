@@ -1,0 +1,27 @@
+kernel-monitor.o: monitor.c \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/stdlib/assert.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/stdlib/string.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/stdlib/stdlib.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/task.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint-gcc.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/stdlib/queue.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/memory/mmu.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/monitor.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/console/terminal.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/stdlib/assert.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/stdlib/string.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/stdlib/stdlib.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/task.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdint-gcc.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/stdlib/queue.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/memory/mmu.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/monitor.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/lib/console/terminal.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h:

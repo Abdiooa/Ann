@@ -1,0 +1,11 @@
+read_unmap.o: read_unmap.c \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/user/syscall.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint-gcc.h \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/stdlib/string.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/user/syscall.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdint-gcc.h:
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/stdlib/string.h:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h:

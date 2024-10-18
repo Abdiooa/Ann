@@ -1,0 +1,3 @@
+bootloader-boot.o: boot.S \
+ /home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/misc/gdt.h
+/home/sohiab/Desktop/ПроектированиеОС/LabsOS/annos_labs/src/kernel/misc/gdt.h:
